@@ -7,7 +7,7 @@ ACM MM 2016
 ```
 @InProceedings{lu2016visual,
    title = {Play and Rewind: Optimizing Binary Representations of Videos by Self-Supervised Temporal Hashing},
-   author = {Zhang, Hanwang and Wang, Meng and Chua, Tat-Seng},
+   author = {Zhang, Hanwang and Wang, Meng and Hong, Richang and Chua, Tat-Seng},
    booktitle = {MM},
    year = {2016},
  }
